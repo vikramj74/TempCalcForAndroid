@@ -1,0 +1,5 @@
+C:\Users\Suman\AndroidstudioProjects\TempCalc\app\build\intermediates\classes\debug
+C:\Users\Suman\AndroidstudioProjects\TempCalc\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-40fe9cc10ca43821305a01db0d02a522904f863b.jar
+C:\Users\Suman\AndroidstudioProjects\TempCalc\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-ed3d43ced35af48dc3d98cc823657bde7a2d468e.jar
+C:\Users\Suman\AndroidstudioProjects\TempCalc\app\build\intermediates\pre-dexed\debug\classes-e0097ecd38042451f51472cd9010a988c02e999b.jar
+C:\Users\Suman\AndroidstudioProjects\TempCalc\app\build\intermediates\pre-dexed\debug\classes-0ffa822dd3e6c9a96c52969a279bebe45eb81142.jar

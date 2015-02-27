@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TempCalc</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_radio_kel">Kelvin</string>
+    <string name="text_radio_far">Fahrenheit</string>
+    <string name="text_radio_cel">Celsius</string>
+    <string name="label_btn_calc">Convert</string>
+    <string name="text_sel_temp">Choose An Input Unit</string>
+    <string name="label_temp_in">Input Temperature : </string>
+
+</resources>
